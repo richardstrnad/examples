@@ -183,11 +183,13 @@ serverless install -u https://github.com/author/project -n my-project
 | **[Daily Instance Backups With Ami Rotation](https://github.com/AndrewFarley/AWSAutomatedDailyInstanceAMISnapshots)** <br/> A simple Python application which scans through your entire AWS account for tagged instances, makes daily AMIs of them, and rotates their backups automatically | [AndrewFarley](http://github.com/AndrewFarley) |
 | **[Demo Project For Serverless Migrate Plugin](https://github.com/EliuX/serverless-migrate-plugin/tree/master/example)** <br/> An example about how to use migrations in your serverless project with serverless-migrate-plugin | [EliuX](http://github.com/EliuX) |
 | **[Express Application With Lambda](https://github.com/HoseungJang/serverless-lambda-express-example)** <br/> This example demonstrates how to build an express application for AWS Lambda based on serverless framework. | [HoseungJang](http://github.com/HoseungJang) |
+| **[File uploads using S3 presigned URLs](https://github.com/marchetti2/aws-node-serverless-upload-presigned-url)** <br/> A Serverless photo upload service with API Gateway, S3 presigned URLs and Lambda. | [marchetti2](https://github.com/marchetti2) |
 | **[Fotopia Serverless](https://github.com/mbudm/fotopia-serverless)** <br/> A photo archive web app including API, storage and face detection using serverless framework | [mbudm](http://github.com/mbudm) |
 | **[Golive](https://github.com/adimoraret/golive/)** <br/> Boilerplate to live stream using AWS MediaLive and MediaStore | [adimoraret](http://github.com/adimoraret) |
 | **[Http Headers Checks](https://github.com/authdog/http-headers-check)** <br/> Serverless Application to check integrity of the headers of a given HTTP server | [authdog](http://github.com/authdog) |
 | **[Json Serverless](https://github.com/pharindoko/json-serverless)** <br/> A simple & cheap serverless REST API using [json-server](https://github.com/typicode/json-server) in combination with AWS Lambda / S3 and the serverless framework | [pharindoko](http://github.com/pharindoko) |
 | **[Lambda Pubsub Via Sns Example](https://github.com/didil/serverless-lambda-sns-example)** <br/> Example illustrating the flow: Lambda (publisher) => SNS => Lambda (consumer) | [didil](http://github.com/didil) |
+| **[Monorepo Typescript microservices](https://github.com/fargito/serverless-monorepo-microservices-template)** <br/> An opinionated Serverless template with several Typescript microservices in a monorepo | [fargito](http://github.com/fargito) |
 | **[Nietzsche](https://github.com/rpidanny/Nietzsche)** <br/> A serverless application that fetches quotes from Goodreads and saves it to DynamoDB with example use cases using `Lambda`, `SNS`, `SQS`, `Step Functions`, `DynamoDB`, `API Gateway`, `CloudWatch` | [rpidanny](http://github.com/rpidanny) |
 | **[Open Bot](https://github.com/open-bot/open-bot)** <br/> An unoptionated Github bot driven by a configuration file in the repository | [open-bot](http://github.com/open-bot) |
 | **[Personal Access Tokens Cron Check](https://github.com/madtrick/cfpat-audit)** <br/> Audit for leaked PAT in your Contentful organization. How to use serverless as cronjobs to keep your Personal Access Tokens secure | [madtrick](http://github.com/madtrick) |
@@ -281,6 +283,7 @@ serverless install -u https://github.com/author/project -n my-project
 | **[Sls Form Mail](https://github.com/takahashim/sls-form-mail)** <br/> Send SNS email from form data | [takahashim](http://github.com/takahashim) |
 | **[Vanity Stargazer](https://github.com/silvermullet/vanity-stargazer)** <br/> Github vanity-stargazer is a serverless application to handle posting Github new star gazers to Slack | [silvermullet](http://github.com/silvermullet) |
 | **[Video Preview And Analysis Service](https://github.com/laardee/video-preview-and-analysis-service)** <br/> An event-driven service that generates labels using Amazon Rekognition and creates preview GIF animation from a video file. | [laardee](http://github.com/laardee) |
+| **[Idempotent Serverless Applications Examples](https://github.com/Nsupyq/idempotent-serverless-functions)** <br/> Examples of how to write idempotent serverless functions. | [Nsupyq](https://github.com/Nsupyq) |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Contributing
